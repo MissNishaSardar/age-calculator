@@ -10,12 +10,16 @@
 		"prod": "eslint && next build && next start"
 	},
 	"dependencies": {
+		"@radix-ui/react-popover": "^1.1.15",
+		"@radix-ui/react-slot": "^1.2.4",
 		"class-variance-authority": "^0.7.1",
 		"clsx": "^2.1.1",
+		"date-fns": "^4.1.0",
 		"lucide-react": "^0.554.0",
 		"next": "^16.0.3",
 		"next-themes": "^0.4.6",
 		"react": "^19.2.0",
+		"react-day-picker": "^9.12.0",
 		"react-dom": "^19.2.0",
 		"sharp": "^0.34.5",
 		"tailwind-merge": "^3.4.0"
